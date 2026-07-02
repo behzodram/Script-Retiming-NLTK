@@ -1,0 +1,33 @@
+Sizning savolingiz juda aniq va texnik. Keling, Claude Code orqali Higgsfield CLI yordamida rasm generatsiya qilish jarayonini bosqichma-bosqich va ishlash prinsipigacha tahlil qilamiz.
+
+### 🔧 Asosiy Texnologik Tarkibiy Qismlar
+
+Jarayonni tushunish uchun avval uning asosini tashkil etuvchi qismlarni bilish kerak:
+
+1.  **Higgsfield Skills**: Bu Claude Code kabi agentlarga Higgsfield imkoniyatlaridan foydalanish imkonini beruvchi ko'rsatmalar (skills) to'plami. Ular `higgsfield-generate` (rasm/video yaratish), `higgsfield-soul-id` (personaj o'qitish) va boshqa vazifalarni bajarish uchun mo'ljallangan.
+2.  **Higgsfield CLI (Command Line Interface)**: Bu sizning terminalingizdan to'g'ridan-to'g'ri Higgsfield xizmatlariga buyruqlar yuborish imkonini beruvchi vosita. Rasm yaratish (`higgsfield generate`), yuklab olish (`higgsfield download`) va tarixni ko'rish (`higgsfield history`) kabi amallarni bajaradi.
+3.  **Higgsfield MCP (Model Context Protocol)**: Bu Claude Code va Higgsfield o'rtasidagi "ko'prik" vazifasini o'taydi. MCP orqali Claude Code to'g'ridan-to'g'ri Higgsfield platformasidagi 30 dan ortiq modelga (shu jumladan GPT Image 2) buyruq berishi va natijalarni qabul qilishi mumkin.
+
+### ⚙️ Jarayon Bosqichlari
+
+Siz "transcribe matn va undagi timing bilan moslashgan holatda" ishlashni so'ragansiz. Quyidagi jadvalda bu jarayon bosqichma-bosqich va har bir bosqichda nima sodir bo'lishi tushuntirilgan.
+
+| Bosqich | Siz (Foydalanuvchi) | Claude Code | Higgsfield CLI / MCP | Natija |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. So'rov (Prompt)** | Siz Claude Code-ga "Mana bu transkripsiya va vaqt belgilari (timestamps) asosida har bir timestamp uchun MS Paint uslubida rasm yarat. Har bir rasmni timestamp nomi bilan lokal papkamga yuklab ol" deb yozasiz. | So'rovni tahlil qiladi. Vaqt belgilari va ularga mos keladigan matn qismlarini ajratib oladi. | - | - |
+| **2. Vazifani Rejalashtirish** | - | Har bir timestamp uchun alohida rasm yaratish rejasini tuzadi. Har bir rasm uchun kerakli promptni (masalan, "0:00 da aytilganidek, oddiy odam chizilgan rasm") tayyorlaydi. | - | - |
+| **3. Buyruqni Yaratish** | - | Har bir rasm uchun **Higgsfield CLI** buyrug'ini tuzadi. Masalan: <br> `higgsfield generate "oddiy odam chizilgan rasm" -m gpt-image-2 -r 1k -a 16:9` | - | - |
+| **4. Bajarish (Execution)** | - | Tuzilgan buyruqni **Higgsfield MCP** orqali yuboradi. | **Higgsfield MCP** buyruqni qabul qiladi. **Higgsfield CLI**-ni ishga tushiradi va u sizning hisobingizdagi kreditlarni hisoblab, **GPT Image 2** modeliga so'rov yuboradi. | Rasm yaratiladi va Higgsfield serveriga saqlanadi. |
+| **5. Natijani Qaytarish** | - | **MCP** orqali yaratilgan rasmning manzili (URL) va boshqa ma'lumotlarini oladi. | Yaratilgan rasm URL'ini va uning identifikatorini (masalan, `#1`) Claude Code-ga qaytaradi. | - |
+| **6. Yuklab Olish** | - | Olgan rasm URL'idan foydalanib, **Higgsfield CLI** `higgsfield download 1` buyrug'ini yuboradi yoki to'g'ridan-to'g'ri yuklab oladi. | **Higgsfield CLI** rasm faylini yuklab oladi. | Rasm siz belgilagan papkaga, vaqt belgisi (timestamp) bilan nomlangan holda saqlanadi. |
+
+### 🎯 Xulosa
+
+Sizning taxminingiz mutlaqo to'g'ri. Claude Code jarayonni quyidagicha amalga oshiradi:
+
+1.  Sizning tabiiy tildagi so'rovingizni tushunadi va uni amalga oshirish mumkin bo'lgan vazifalarga ajratadi.
+2.  Har bir vazifa (timestamp uchun rasm) uchun **Higgsfield CLI** orqali bajariladigan aniq buyruqlar yaratadi.
+3.  Bu buyruqlarni **Higgsfield MCP** "ko'prigi" orqali Higgsfield platformasiga yuboradi va natijalarni oladi.
+4.  So'ng, olingan natijalarni (rasmlarni) sizning ko'rsatmangizga muvofiq (timestamp bilan nomlab, lokal papkaga) saqlaydi.
+
+Shunday qilib, sizning tasvirlaganingizdek, Claude Code ssenariydan timestamplarni ajratib oladi, ular uchun mos promptlar tayyorlaydi va ularni **Higgsfield CLI** orqali **GPT Image 2** modeliga yuboradi. Bu jarayonning barchasi MCP protokoli orqali xavfsiz va avtomatik tarzda amalga oshiriladi.

@@ -1,0 +1,45 @@
+You are going to generate images for a YouTube script, one image for every timestamp in the script.
+Your job is to read the script carefully and create a separate image for each timestamp.
+If the script has timestamps like 0:00, 0:03, 0:07, 0:10, 0:12, and 0:20, then you must generate one image for each of those timestamps.
+Each image must visually illustrate what the narrator is saying at that exact moment. The image should make sense with the story, the emotion, and the idea being explained. Do not create random images. Every image should feel like a simple visual explanation of the current line in the script.
+The images must be generated using ChatGPT Image 2.
+STYLE REQUIREMENTS:
+The image style must look like extremely simple beginner drawings made in MS Paint. It should look like someone who is not good at drawing created it quickly by hand.
+Use a very simple stickman / childish drawing style:
+White background
+• Thick, uneven black outlines
+• Wobbly hand-drawn lines
+• Stick figure humans with round heads and line bodies
+Simple dot eyes or circle eyes
+Very basic facial expressions
+Flat colors only
+No realistic shading
+No 3D
+No cinematic lighting
+No realistic cartoon style
+No Disney style
+No anime style
+No polished illustration style
+No professional vector art
+No highly detailed backgrounds
+No complex textures
+No realistic humans
+• No glossy or modern design
+The drawings should feel amateur, funny, simple, and intentionally "bad," like a noob drew them in Paint. Objects should be drawn with basic shapes: squares, circles, rectangles, arrows, simple tables, boxes, trees, rooms, signs, screens, stickmen, question marks, and very simple symbols.
+Use the same visual language as the references:
+Simple black line drawings
+• Mostly white empty space
+· Occasional flat colors like green, brown, gray, red, yellow, orange, and blue
+· Red arrows or red question marks when needed
+• Handwritten text only when it helps explain the idea
+If text appears in the image, it must be spelled correctly, short, and easy to read
+• Keep compositions clear and simple
+FORMAT REQUIREMENTS:
+Every image must be horizontal 16:9 for YouTube video format.
+
+Generate each image as a wide YouTube frame, not vertical, not square.
+The image must be clean, readable, and centered. Do not crop important objects. Leave enough space around the characters and objects. Avoid glitches, broken anatomy, unreadable text, messy overlapping objects, or weird extra details.
+IMPORTANT:
+For every timestamp, create a different image that matches the script at that moment. The images should feel like they belong in the same video and same drawing style.
+Do not make the drawings look too good. Do not make them polished. Do not make them professional. The entire point is that they look like simple, funny, beginner MS Paint drawings.
+Here is the script with timestamps. Generate one image for each timestamp: 
