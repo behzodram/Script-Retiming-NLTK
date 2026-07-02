@@ -1,0 +1,43 @@
+S0:00T Simple stick-figure drawing of planet Earth split in half by a jagged red dotted line, left side labeled "GOOD" with a small sun, right side labeled "BAD" with dark scribbles, a big red question mark floating above the globe. White background, thick uneven black outlines, wobbly hand-drawn lines, flat colors only, no shading, no 3D, childish beginner MS Paint style, horizontal 16:9 frame.
+
+S0:02T Simple stick-figure family (adult, child, baby) standing together on top of a round drawn globe, all smiling with round heads and dot eyes, small sun in the corner. White background, thick uneven black outlines, wobbly lines, flat colors only, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S0:06T A single stick figure shrugging with both arms raised, round head, simple confused face, empty speech bubble with just a question mark inside. White background, thick uneven black outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S0:08T Simple stick figure standing tall with a big smile, arms raised in a "yay" pose, word "GOOD" written in shaky handwritten letters above the head with a green arrow pointing up. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S0:11T Two stick figures: one adult handing a smaller stick figure baby to another, with a wobbly arrow connecting them labeled "born," round heads, simple dot eyes. White background, thick uneven outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S0:14T Simple stick-figure family standing in front of a small drawn house with a triangle roof, sun in the sky, smiling faces, flat green ground line. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S0:17T Simple round Earth drawing with a sun beside it and a small plant/tree growing on top of the globe, symbolizing life continuing. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S0:20T A long wobbly arrow stretching across the frame from left to right with a simple hourglass icon at the start, symbolizing a very long time. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S0:23T Simple stick figure walking forward along a long wobbly road/line stretching toward the horizon, small clouds in the sky. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S0:26T Stick figure standing next to a large hand-drawn signpost that reads "1,000,000 YEARS" in shaky handwritten text, pointing at it with one arm. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S0:29T Simple drawn calendar page with a big wobbly number and a small clock icon beside it, both drawn with thick black lines. White background, flat colors only, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S0:30T Stick figure pointing one finger upward with a thoughtful expression, small speech bubble showing "on top of that" as a simple plus/stack symbol. White background, thick uneven outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S0:32T Row of three stick figures of different heights (representing generations) holding hands in a line, round heads, simple smiling faces. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S0:36T Stick figure standing beside simple drawings of a dog and a bird, all facing the same direction, small flat-color ground line beneath them. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S0:38T Stick figure gently patting a simple drawn animal (dog shape) on the head, small red heart symbol above them both. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S0:42T Simple drawn cage made of thick black bars with a small animal inside, a big red "X" crossed over the cage to show it should not happen. White background, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S0:44T Scribbled-out cage drawing with jagged red scratch marks over it, a small sad-face animal peeking out, red question mark beside it. White background, thick uneven outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S0:48T Simple animal drawing fading into dotted/ghost outline with a red arrow pointing downward beside it, symbolizing disappearing. White background, thick black outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S0:51T Simple animal figure inside a thought bubble connected to a stick figure's head, small handwritten words "could" and "should" floating nearby. White background, thick uneven outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S0:53T Stick figure walking side by side with a simple drawn animal (dog or bird shape), both facing forward, small sun above them. White background, thick black outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S0:55T Stick figure lying down with eyes closed and a large thought bubble above showing a small sun, tree, and smiling face inside — a dream scene. White background, thick uneven outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S0:57T Stick figure standing with a big smile, thumbs up, word "WONDERFUL" written in shaky handwritten letters above the head with small sparkle marks around it. White background, thick black outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.

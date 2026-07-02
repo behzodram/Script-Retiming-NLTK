@@ -1,0 +1,1 @@
+python main.py --audio data/TFND.mp3 --script data/expanded_script.txt

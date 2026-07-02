@@ -1,0 +1,225 @@
+S1:00T Stick figure sitting up from a dream bubble, wiping eyes, small "not just a dream" text bubble with a crossed-out cloud symbol beside them. White background, thick uneven black outlines, wobbly hand-drawn lines, flat colors only, no shading, no 3D, childish beginner MS Paint style, horizontal 16:9 frame.
+
+S1:04T Simple drawn globe with a magnifying glass held by a stick figure, looking closely at the ground, small dotted search lines. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S1:05T Stick figure flexing an arm muscle standing on top of a simple globe, both looking strong and solid, small check mark beside them. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S1:10T Stick figure standing confidently with arms crossed, big green check mark floating above the head, small sun in background. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S1:11T Stick figure pointing at a dark storm cloud with a frown, jagged red lightning bolt beside the cloud, word "BAD" written in shaky letters. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S1:14T Stick figure hunched over holding head with both hands, big red exclamation mark above, dark scribble clouds around. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S1:16T Simple drawn calendar with "100s YEARS" written in shaky handwritten text, small clock icon and dark cloud beside it. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S1:19T Simple drawing of two stick figures fighting with crossed sticks/swords, dark scribble smoke around them, a red "X" nearby. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S1:22T Thin, sad stick figure with an empty plate and empty stomach outline, small fading animal shapes disappearing into dotted lines beside them. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S1:25T Single simple animal shape (cow) standing alone on empty ground, surrounded by faded dotted outlines of other animals that have vanished. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S1:28T Simple drawings of a chicken and a cow standing side by side in a small fenced pen, flat green ground. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S1:31T Stick figure with a frustrated expression trying to shoo away small drawn flies and a mouse with a broom, motion lines around the broom. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S1:34T Simple drawings of a fly and a mouse sitting together on an empty patch of ground, small dotted outlines of other missing animals nearby. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S1:36T Stick figure standing between two signs, one labeled "GOOD" with a smiling sun, one labeled "BAD" with a dark cloud, pointing at the good side. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S1:39T Simple scale/balance drawing with a smiling sun on one side weighing heavier than a dark cloud on the other side. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S1:42T Stick figure holding a small globe with both hands, looking uncertain, small string connecting the globe to a floating cloud labeled with a question mark. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S1:44T Simple drawn globe with a small gear/cog symbol on top, wobbly rule-book icon beside it with lines representing rules. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S1:48T Simple drawing of the sun in the center with small round planets circling it on wobbly orbit lines, Earth highlighted with a small flag. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S1:50T Simple globe drawing with a crack line across it and a red "NOT SAFE" sign stuck into the ground beside it. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S1:54T Row of simple round planets of different sizes and flat colors lined up in a row, small stick figure standing beside them for scale. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S1:57T Stick figure standing on a red-colored planet with a big red "X" over it and a sad face, small dust clouds around the feet. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S1:59T Split image: one side shows a fiery orange planet with heat lines, other side shows a blue icy planet with snowflakes, stick figure shivering/sweating in the middle. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S2:03T Simple globe drawing with one half showing wavy heat lines and flames, other half showing snowflakes and ice cracks, symbolizing "too hot or too cold." White background, thick uneven black outlines, wobbly hand-drawn lines, flat colors only, no shading, no 3D, childish beginner MS Paint style, horizontal 16:9 frame.
+
+S2:04T Simple drawn Earth balancing on a thin wobbly line like a seesaw, tipping slightly to one side, small stick figure standing on top looking worried. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S2:06T Globe drawing tipping sharply to one side with motion lines, small stick figure sliding off holding onto the edge. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S2:10T Simple cloud/air layer drawn around a globe with a small plus and minus sign showing a tiny change, red arrow pointing at the shift. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S2:12T Globe wobbling with small crack lines appearing on its surface, motion wobble marks around it, red exclamation mark above. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S2:15T Cross-section drawing of the Earth showing a simple round core colored orange/red in the center, thick black outline layers around it. White background, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S2:17T Cross-section Earth drawing with small plant and animal stick-shapes standing on the surface above the orange core, small heat wavy lines rising up. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S2:21T Simple drawn volcano shape with orange melted rock (lava) flowing down the sides in wobbly lines, small smoke puffs on top. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S2:24T Volcano erupting with orange lava spilling from the top, wobbly lava lines running down toward a flat ground line. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S2:27T Simple cracked ground surface drawing with a small volcano shape poking through, thick black crack lines spreading outward. White background, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S2:28T Row of simple volcano shapes of different sizes with the biggest one highlighted and circled in red, small ranking number "1" beside it. White background, thick black outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S2:30T Large volcano erupting with a big cloud of gray ash bursting from the top, thick black outline smoke shapes. White background, thick uneven outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S2:33T Simple map shape labeled "USA" with a small volcano icon and flag marker pinned on it, "Mount St. Helens" written in shaky handwritten text. White background, thick black outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S2:37T Volcano erupting with a large gray ash cloud shaped roughly like a cube/block floating above it, small size-comparison box beside it labeled "1 km³". White background, thick uneven outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S2:39T Simple gray ash cloud drawn as a cube shape floating in the sky above a volcano, small measuring ruler icon beside it. White background, thick black outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S2:42T Empty land area drawing with a volcano in the distance and just one tiny stick figure standing far away, lots of empty white space. White background, thick uneven outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S2:45T Empty flat land with a small "0 people" sign stuck in the ground and a distant smoking volcano in the background. White background, thick black outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S2:47T Simple calendar page showing "1815" written in shaky handwritten numbers, small volcano icon beside the date. White background, thick uneven outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S2:50T Simple map shape labeled "Indonesia" with a volcano icon erupting gray ash clouds rising from it. White background, thick black outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S2:53T Large gray ash cloud spreading wide across the sky above a simple globe outline, covering the sun partially. White background, thick uneven outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S2:56T Small drawn plant/crop wilting and drooping with a dark cloud blocking the sun above it, sad face on the plant. White background, thick black outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S2:58T Stick figure standing in an empty dry field with wilted crops around, dark ash cloud overhead, small calendar showing several crossed-off years. White background, thick uneven outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S3:02T Empty dry field stretching into the distance with rows of wilted, drooping crops, thick black outline sun blocked by dark ash clouds. White background, thick uneven black outlines, wobbly hand-drawn lines, flat colors only, no shading, no 3D, childish beginner MS Paint style, horizontal 16:9 frame.
+
+S3:05T Simple drawing of a small village/hut cluster with a big red "X" crossed over it, empty ground around, symbolizing people gone. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S3:08T Volcano shape with a shrug-posed stick figure standing beside it, hands raised in confusion, small question mark above the head. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S3:10T Stick figure scratching head looking up at a volcano with a thought bubble containing a blank question mark, symbolizing unknown limits. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S3:14T Simple volcano drawing with a large blank question mark floating above the crater, thick smoke puff beside it. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S3:15T Simple map shape labeled "USA" with a flag pin and a large round crater/bowl shape drawn on it, "Yellowstone" written in shaky handwritten text. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S3:17T Cross-section drawing of a large round hollow/bowl in the ground, thick black outline layers going deep down, small stick figure standing at the edge for scale. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S3:21T Large deep round hollow crater drawing with an old, wrinkled/cracked texture pattern inside made of simple thick lines, symbolizing age and size. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S3:24T Stick figure scientist holding a simple measuring tool/ruler pointed at the ground, small chart or graph icon beside them with an upward line. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S3:26T Cross-section drawing of ground with a small round shape in the center and wobbly upward arrows showing it slowly rising. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S3:29T Simple hourglass icon beside a road/timeline stretching far into the distance, "200,000,000" written in shaky handwritten numbers above. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S3:32T Simple Yellowstone crater shape with small cracks starting to form and a tiny puff of smoke rising from the center. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S3:33T Large volcano eruption drawing with thick black ash cloud bursting upward, jagged orange lava lines spraying outward. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S3:38T Simple globe drawing covered halfway with a thick gray ash cloud layer, small crack lines spreading across its surface. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S3:40T Split scene: volcano erupting on one side labeled "TOMORROW?" in shaky text, calendar with many pages on the other side labeled "GOOD CHANCE". White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S3:43T Simple calendar with many stacked pages and a green check mark on top, "1,000,000" written in shaky handwritten numbers beside it. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S3:46T Stick figure relaxing calmly on a long wobbly timeline stretching into the distance, small clock icon and sun above. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S3:49T Stick figure sitting comfortably with hands behind head, relaxed smiling face, small "OK" sign floating nearby. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S3:51T Stick figure nodding with a thought bubble containing a small check mark, symbolizing believing something makes sense. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S3:53T Stick figure looking upward at a starry night sky filled with simple round stars and small dotted orbit lines. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S3:56T Night sky scene with a big red danger sign (triangle with exclamation mark) among simple drawn stars, small planet in the corner. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S4:00T Night sky filled with many small simple rock/asteroid shapes drawn as jagged circles, scattered around a round Earth in the center. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S4:02T Asteroids and comets drawn as jagged rock shapes with small wobbly tail lines, floating near a round Earth in the corner of the frame. White background, thick uneven black outlines, wobbly hand-drawn lines, flat colors only, no shading, no 3D, childish beginner MS Paint style, horizontal 16:9 frame.
+
+S4:06T Single large jagged asteroid rock shape with motion lines behind it, small island shape drawn beside it for size comparison. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S4:09T Large jagged asteroid speeding toward Earth with motion streak lines, small speedometer icon showing "50,000 km/h" in shaky text. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S4:12T Asteroid splashing into a simple drawn ocean with wavy blue lines, big splash marks and water droplets flying up. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S4:14T Small rock dropped into a round puddle with circular ripple lines spreading outward, simple comparison arrow pointing to a similar ripple around the ocean splash. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S4:18T Giant wobbly wave rising from the ocean, tall and curved, small stick figures running away from it on the shore. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S4:20T Giant wave shape wrapping around a simple round globe drawing, wavy motion lines circling the entire planet. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S4:24T Globe drawing turning blue and covered with snowflakes and ice patches, small shivering stick figure standing on top hugging itself. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S4:26T Cold, icy landscape with snowflakes falling, simple calendar stack in the corner labeled "100s YEARS" in shaky handwritten text. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S4:30T Long stretch of icy, snow-covered ground with a single shivering stick figure walking through it, small clock icon above showing time passing. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S4:31T Stick figure scientist standing beside a large drawn shield/dome icon protecting a small globe, blueprint-style dotted lines around it. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S4:34T Simple drawn rocket or shield device pointed toward an incoming asteroid, dotted trajectory line connecting them. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S4:36T Stick figure shrugging beside a dice icon with dots on it, small "?" symbol floating nearby, symbolizing luck and uncertainty. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S4:39T Two scale pans balanced side by side, one holding a small asteroid rock, the other holding a dice, both roughly level. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S4:41T Large jagged asteroid drawn extra big and dark, dramatic thick outline, small red "DANGER" sign beside it. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S4:44T Simple drawing of a dinosaur stick-shape standing beside a big asteroid, both with a red "X" crossing over them. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S4:48T Calendar timeline with "65,000,000 YEARS AGO" written in shaky handwritten text, small dinosaur bone icon beside it. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S4:51T Stick figure standing calmly with arms crossed, small calendar showing empty/clear pages stretching to today, relieved expression. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S4:54T Stick figure shaking head "no" with a crossed-out worried face icon beside them, small sun in the background. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S4:57T Simple globe drawing with a small dice and a four-leaf clover beside it, symbolizing average luck, small sun shining on it. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S5:00T Stick figure standing on a stable-looking globe with a thumbs up, small check mark and sun above, calm background. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S5:03T Globe drawing with a large wobbly question mark hovering over it, small clock showing "1000" and "1,000,000" years written in shaky text beside it. White background, thick uneven black outlines, wobbly hand-drawn lines, flat colors only, no shading, no 3D, childish beginner MS Paint style, horizontal 16:9 frame.
+
+S5:06T Split scene: peaceful globe with sun on one side, cracked unstable globe with dark clouds on the other, small timeline arrow connecting them. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S5:08T Stick figure pointing at themselves with a guilty/thoughtful expression, small mirror icon beside them reflecting their own face. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S5:11T Simple drawn hand (human) holding a small globe carefully, thick black outline, small heart or check mark above it. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S5:13T Stick figure standing confidently in the center holding a small globe, simple drawn animals (dog, bird, cow) standing beside them in a row. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S5:15T Wide scene showing a stick figure and several simple animal shapes standing together on top of the globe, all facing forward. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S5:18T Stick figure and animals standing together with hands/paws linked in a row, small sun shining above them all. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S5:21T Simple dice icon labeled "AVERAGE LUCK" in shaky handwritten text sitting beside a globe with a sun above it. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S5:24T Fork-in-the-road drawing with two wobbly paths, one leading to a sunny globe labeled "GOOD," the other to a dark cloudy globe labeled "BAD." White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S5:27T Stick figure standing at a fork in the road, looking at two signs, one pointing to a bright path, one to a dark path. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S5:30T Stick figure holding a steering wheel or map, small compass icon nearby, standing confidently deciding a direction. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S5:33T Simple drawing of a globe with small government-building icon (columns and triangle roof) on top of it, gear symbols beside it. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S5:35T Globe with an upward wobbly arrow labeled "HELP" in shaky text on one side, and a downward arrow labeled toward a cracked ground on the other. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S5:38T Globe with a jagged crack spreading across it and a downward red arrow pointing at the crack, dark cloud above. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S5:41T Stick figure looking into a simple hand-held mirror, thought bubble above showing a small globe with animals and plants inside. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S5:44T Stick figure standing between a mirror (self) and a globe with trees/animals, both connected by a wobbly dotted line. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S5:46T Simple globe drawing surrounded by small trees, animals, and water drops representing "the living world," stick figure standing in the middle. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S5:50T Several stick figures wearing simple crown or tie icons (representing leaders) standing together in front of a globe with tree and animal icons. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S5:52T Stick figures and a small drawn open book with simple nature symbols (leaf, sun, wave) coming out of it, representing laws of nature. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S5:55T Stick figure holding an open book with a thoughtful expression, small nature icons (leaf, drop, sun) floating above the pages. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S5:59T Stick figure nodding seriously while holding the open nature book close to their chest, small check mark above their head. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S6:00T Stick figure holding the book firmly with a determined, serious facial expression, small exclamation mark above the head. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S6:04T Stick figure turning away from the open book, small red "X" symbol appearing over the book pages, dark cloud beginning to form above. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S6:08T Stick figure and simple animal shapes standing together looking sad, empty speech bubble with a small broken heart inside. White background, thick black outlines, wobbly lines, flat colors, beginner MS Paint style, horizontal 16:9 frame.
+
+S6:10T Simple globe fading slowly into a dotted outline, sun setting behind it, calm and quiet scene with soft flat colors. White background, thick uneven outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
+
+S6:11T Simple hand-drawn "THE END" text in shaky handwritten letters centered on the page, small globe icon beside it, white empty space around. White background, thick black outlines, wobbly lines, flat colors, no shading, beginner MS Paint style, horizontal 16:9 frame.
