@@ -1,0 +1,5 @@
+Bu proyektni ishlab chiqayotgan chat linki:
+    https://claude.ai/share/ba2b6d3b-b37c-4c80-8a82-adda0aefa321
+
+Hamkor Script prompt beruvchi link:
+    https://claude.ai/chat/8a95b42c-3489-45ef-882d-e5fe1fa726e7
