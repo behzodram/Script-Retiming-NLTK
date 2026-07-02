@@ -1,3 +1,4 @@
+v 1.0.3 => main: main README.md edit.
 v 1.0.2 => main: har bir qismga README.md yozildi, startwork.sh ish boshlash uchun link taqdim qiladi.
 v 1.0.1 => main: README.md edit, Claude new fldr.
 v 1.0.0 => main: audio + transcript + timing 3 sec & retiming script
