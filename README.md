@@ -25,13 +25,13 @@ Trimmed folderga yuklab olinadi.
 https://audiotrimmer.com/
 4. Barcha trimmed audioni tartib raqami bo'yicha merge qilib, eshtib ko'riladi va matn bilan solishtiriladi va audioga nom berib saqlab qo'yiladi.
 https://clideo.com/merge-audio
-5. Hosil bo'lgan audioni turboscribe sayti orqali whale tezligida transcribsiya qilib, timingli matnidan to'liq nusxa olinadi va transcribe.txt deb saqlab qo'yiladi.
+5. Hosil bo'lgan audioni turboscribe sayti orqali whale tezligida transcribsiya qilib, timingli matnidan to'liq nusxa olinadi va transcribe.txt deb saqlab qo'yiladi. Va eng oxirida audio uzunligi timingni ko'rib masalan audio (6:10)daqiqa bo'lsa, bu time stampni input_script.txt eng oxirida "(6:10) The End." shaklda yozish shart. (Aks holda video oxiri sifatsiz chiqadi.)
 
 # (5.) da hosil bo'lgan .txt faylni joriy proyektda ishlatish: (Maqsad video kadrlar sonini sezilarli sonda (4-5 martaga) oshirish)
 6. input_script.txt faylini ichiga (5.) da hosil bo'lgan .txt fayl copy + paste qilinadi.
 7. CMD => "cd out-test" folderga o'tiladi.
 8. CMD => "./exp.sh" orqali script qayta retiming qilinadi bunda script 3 sekundli interval darajasida qayta yoziladi va kengayadi.
-9. olingan natijani Claude Ai bilan davom ettiriladi.
+9. natija fayl: out-text/data/expanded_script.txt. olingan natijani Claude Ai bilan davom ettiriladi.
 
 # Claude ai orqali qayta tartiblash: (Maqsad retiming qilingan txt uchun higgsfiled automat extensionga mos prompt set tayyorlash.)
 10. Claude da yangi oyna ochish.
